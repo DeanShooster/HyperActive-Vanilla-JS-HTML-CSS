@@ -24,5 +24,4 @@ Users can browse trough the page and have access to all the static information. 
 <hr>
 <h2 align="center">Demo Videos</h2>
 
-
-
+https://user-images.githubusercontent.com/92792238/165530674-c579d736-0fd6-4fbe-83a1-e8cce6ee9a9d.mp4
